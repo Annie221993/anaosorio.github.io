@@ -28,3 +28,7 @@ ciudad = "Medellín"
 
 mensaje = f"Hola, mi nombre es {nombre}, tengo {edad} años y vivo en {ciudad}."
 print(mensaje)
+## 🤖 Referencias de IA
+
+- ChatGPT (GPT-5), usado para obtener ejemplos y explicaciones sobre variables y estructura del README.  
+  Conversación: [https://chatgpt.com/share/690eb432-a864-8003-ba30-6a0491300de0](https://chatgpt.com/share/690eb432-a864-8003-ba30-6a0491300de0) 
